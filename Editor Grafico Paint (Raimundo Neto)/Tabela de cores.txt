@@ -1,0 +1,124 @@
+// Preto
+glColor3f(0.0, 0.0, 0.0);
+
+// Branco
+glColor3f(1.0, 1.0, 1.0);
+
+// Vermelho
+glColor3f(1.0, 0.0, 0.0);
+
+// Verde
+glColor3f(0.0, 1.0, 0.0);
+
+// Azul
+glColor3f(0.0, 0.0, 1.0);
+
+// Amarelo
+glColor3f(1.0, 1.0, 0.0);
+
+// Ciano
+glColor3f(0.0, 1.0, 1.0);
+
+// Magenta
+glColor3f(1.0, 0.0, 1.0);
+
+// Cinza (50% de intensidade)
+glColor3f(0.5, 0.5, 0.5);
+
+// Rosa
+glColor3f(1.0, 0.75, 0.8);
+
+// Laranja
+glColor3f(1.0, 0.5, 0.0);
+
+// Roxo
+glColor3f(0.5, 0.0, 0.5);
+
+// Verde claro
+glColor3f(0.5, 1.0, 0.5);
+
+// Azul claro
+glColor3f(0.5, 0.5, 1.0);
+
+// Marrom
+glColor3f(0.6, 0.4, 0.2);
+
+// Verde escuro
+glColor3f(0.0, 0.5, 0.0);
+
+// Azul escuro
+glColor3f(0.0, 0.0, 0.5);
+
+// Rosa claro
+glColor3f(1.0, 0.5, 0.5);
+
+// Amarelo claro
+glColor3f(1.0, 1.0, 0.5);
+
+// Turquesa
+glColor3f(0.25, 0.88, 0.82);
+
+// Turquesa escuro
+glColor3f(0.0, 0.8, 0.8);
+
+// Violeta
+glColor3f(0.6, 0.0, 1.0);
+
+// Laranja escuro
+glColor3f(0.8, 0.4, 0.0);
+
+// Cinza claro
+glColor3f(0.7, 0.7, 0.7);
+
+// Magenta claro
+glColor3f(1.0, 0.7, 1.0);
+
+// Verde oliva
+glColor3f(0.5, 0.5, 0.0);
+
+// Azul celeste
+glColor3f(0.5, 0.8, 1.0);
+
+// Vermelho escuro
+glColor3f(0.5, 0.0, 0.0);
+
+// Rosa escuro
+glColor3f(0.7, 0.3, 0.5);
+
+// Amarelo escuro
+glColor3f(0.8, 0.8, 0.0);
+
+// Verde limão
+glColor3f(0.75, 1.0, 0.0);
+
+// Azul marinho
+glColor3f(0.0, 0.0, 0.3);
+
+// Púrpura
+glColor3f(0.5, 0.0, 0.7);
+
+// Verde esmeralda
+glColor3f(0.0, 0.8, 0.4);
+
+// Azul safira
+glColor3f(0.0, 0.2, 0.8);
+
+// Coral
+glColor3f(1.0, 0.5, 0.3);
+
+// Cinza escuro
+glColor3f(0.3, 0.3, 0.3);
+
+// Lavanda
+glColor3f(0.7, 0.5, 1.0);
+
+// Verde água
+glColor3f(0.0, 0.9, 0.7);
+
+{0.7, 0.13, 0.13}, // Tijolo refratário 
+{0.96, 0.77, 0.19},// Açafrão	
+{1.0, 0.98, 0.8},  // Seda
+{0.53, 0.81, 0.98},// Azul Céu Claro
+{0.75, 1.0, 0.0},  // Lima
+{0.1, 0.1, 0.44},  // Azul Meia-Noite
+
